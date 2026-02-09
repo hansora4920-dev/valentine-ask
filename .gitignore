@@ -1,0 +1,11 @@
+# OS / system files
+Thumbs.db
+Desktop.ini
+ntuser.dat*
+*.log
+
+# Node (if you ever add it later)
+node_modules/
+
+# Editor
+.vscode/
